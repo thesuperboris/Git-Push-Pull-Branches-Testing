@@ -2,6 +2,11 @@
 
 Original text
 
+<<<<<<< HEAD
 Added even more new text while Robert pushed to main
 
 More more text yes
+=======
+
+Added some new updated text in Robert branch
+>>>>>>> main
