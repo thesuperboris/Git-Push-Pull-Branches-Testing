@@ -1,12 +1,19 @@
 
 
-Original text
 
 <<<<<<< HEAD
 Added even more new text while Robert pushed to main
 
+<<<<<<< HEAD
 More more text yes
 =======
 
 Added some new updated text in Robert branch
 >>>>>>> main
+=======
+
+
+I delete that then add some new stuff
+
+When you pull this from remote repo, you will get the editor open
+>>>>>>> 3f72c4948342c27323a220c5bf424d972ce5bc4a
